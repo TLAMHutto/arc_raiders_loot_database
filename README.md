@@ -15,9 +15,3 @@ These are used by the Python desktop app to provide fast keyword-based searching
 Below is a preview of the search application interface:
 
 ![Loot Search Screenshot](./assets/loot_search_ui.png)
-
-> **Note:** Replace the image path above (`./assets/loot_search_ui.png`) with the actual location of the screenshot once it is added to the repository.
-
----
-
-If you want to expand this README with installation instructions, usage examples, screenshots, or contributor notes, feel free to tell me and I can format it for you.
